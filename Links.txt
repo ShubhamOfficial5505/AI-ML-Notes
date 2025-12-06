@@ -3,3 +3,4 @@ Python Style Guide - https://google.github.io/styleguide/pyguide.html
 Python Built-in Exceptions - https://www.w3schools.com/python/python_ref_exceptions.asp
 Variable Scope - https://www.youtube.com/watch?v=QVdf0LgmICw
 Pass By Value And Pass By Reference - https://www.youtube.com/watch?v=fer7SYLvuJE
+NumPy - https://numpy.org/
