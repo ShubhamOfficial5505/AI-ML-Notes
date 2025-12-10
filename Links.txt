@@ -4,3 +4,4 @@ Python Built-in Exceptions - https://www.w3schools.com/python/python_ref_excepti
 Variable Scope - https://www.youtube.com/watch?v=QVdf0LgmICw
 Pass By Value And Pass By Reference - https://www.youtube.com/watch?v=fer7SYLvuJE
 NumPy - https://numpy.org/
+pandas - https://pandas.pydata.org/
